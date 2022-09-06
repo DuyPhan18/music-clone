@@ -55,10 +55,10 @@ const app = {
             img:"./assets/img/song3.jpg"
         },
         {
-            name:"Something just like this",
-            artist:"The Chainsmokers & Coldplay",
-            path:"./assets/music/song4.mp3",
-            img:"./assets/img/song4.jpg"
+            name:"Pink Venom",
+            artist:"BLACKPINK",
+            path:"./assets/music/song5.mp3",
+            img:"./assets/img/song5.jpg"
         },
         {
             name:"Last Goodbye",
